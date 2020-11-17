@@ -11,5 +11,6 @@ git clone https://github.com/s0d-x/deb-install.git
 Make sure to launch it as sudo
 
 ```
-sudo install.sh
+sudo su
+install.sh
 ```
