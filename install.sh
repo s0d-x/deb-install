@@ -8,6 +8,8 @@
 # This file installs/updates:
 # git, wget, curl, nano, net-tools, zsh, neofetch, screenfetch, gcc, nasm, rustc, golang, python, ruby, perl, vlc, sublime-text, vscode
 
+clear
+
 # update packages
 apt-get update
 
@@ -29,4 +31,6 @@ sudo apt-get install code
 # install others
 apt-get install git wget curl nano net-tools zsh neofetch screenfetch gcc nasm rustc golang python ruby perl vlc
 
-printf "Finished install!\n But I don't know if it worked...\n"
+clear
+
+printf "Finished install!\nBut I don't know if it worked...\nI will add this feature soon!"
